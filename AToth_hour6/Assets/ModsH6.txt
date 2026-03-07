@@ -1,0 +1,23 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+A. Add multiple finish zones. See if you can place them in a way that offers the player more choices. For example, a dangerous shortcut route vs an easy but lengthier one.
+
+There are two finish zones. Both require you to pass through a field of lava pits, the second exit requires you to scale a mountain, and avoid some spikes.
+
+B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.)
+
+I added lava (source: https://assetstore.unity.com/packages/2d/textures-materials/stylized-lava-materials-180943 ), and spikes (source: https://assetstore.unity.com/packages/3d/props/ball-pack-446).
+
+C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump)
+
+I added blocks along a mountain range. You have to jump on these blocks in order to access the second exit. You may have to jump over spike balls too
+
+D. Modify the sky and textures to create a world based on your theme.
+
+I made the directional light red, which makes the map look more like you're in a volcanic area. 
